@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap');
+
+:root {
+  font-family: JetBrains Mono;
+  font-weight: 700;
+  background-color: black;
+  height: 100%;
+
+ 
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+ width: 100vw;
+  height :100vh;
+}
